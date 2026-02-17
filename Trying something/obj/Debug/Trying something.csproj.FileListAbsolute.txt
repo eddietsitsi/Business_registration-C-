@@ -1,0 +1,32 @@
+C:\Users\EDDIE TRIPLE E\Desktop\Trying something\Trying something\bin\Debug\Trying something.exe.config
+C:\Users\EDDIE TRIPLE E\Desktop\Trying something\Trying something\bin\Debug\Trying something.exe
+C:\Users\EDDIE TRIPLE E\Desktop\Trying something\Trying something\bin\Debug\Trying something.pdb
+C:\Users\EDDIE TRIPLE E\Desktop\Trying something\Trying something\obj\Debug\Trying something.csprojAssemblyReference.cache
+C:\Users\EDDIE TRIPLE E\Desktop\Trying something\Trying something\obj\Debug\Trying_something.Form1.resources
+C:\Users\EDDIE TRIPLE E\Desktop\Trying something\Trying something\obj\Debug\Trying_something.Form2.resources
+C:\Users\EDDIE TRIPLE E\Desktop\Trying something\Trying something\obj\Debug\Trying_something.Form3.resources
+C:\Users\EDDIE TRIPLE E\Desktop\Trying something\Trying something\obj\Debug\Trying_something.Form4.resources
+C:\Users\EDDIE TRIPLE E\Desktop\Trying something\Trying something\obj\Debug\Trying_something.Properties.Resources.resources
+C:\Users\EDDIE TRIPLE E\Desktop\Trying something\Trying something\obj\Debug\Trying something.csproj.GenerateResource.cache
+C:\Users\EDDIE TRIPLE E\Desktop\Trying something\Trying something\obj\Debug\Trying something.csproj.CoreCompileInputs.cache
+C:\Users\EDDIE TRIPLE E\Desktop\Trying something\Trying something\obj\Debug\Trying something.exe
+C:\Users\EDDIE TRIPLE E\Desktop\Trying something\Trying something\obj\Debug\Trying something.pdb
+C:\Users\EDDIE TRIPLE E\Desktop\Trying something\Trying something\obj\Debug\Trying_something.UserControl1.resources
+C:\Users\EDDIE TRIPLE E\Desktop\Trying something\Trying something\obj\Debug\Trying_something.UserControl2.resources
+C:\Users\EDDIE TRIPLE E\Desktop\Trying something\Trying something\obj\Debug\Trying_something.UserControl3.resources
+C:\Users\eddie\Desktop\C#\Trying something\Trying something\bin\Debug\Trying something.exe.config
+C:\Users\eddie\Desktop\C#\Trying something\Trying something\bin\Debug\Trying something.exe
+C:\Users\eddie\Desktop\C#\Trying something\Trying something\bin\Debug\Trying something.pdb
+C:\Users\eddie\Desktop\C#\Trying something\Trying something\obj\Debug\Trying something.csproj.AssemblyReference.cache
+C:\Users\eddie\Desktop\C#\Trying something\Trying something\obj\Debug\Trying_something.Form1.resources
+C:\Users\eddie\Desktop\C#\Trying something\Trying something\obj\Debug\Trying_something.Form2.resources
+C:\Users\eddie\Desktop\C#\Trying something\Trying something\obj\Debug\Trying_something.Form3.resources
+C:\Users\eddie\Desktop\C#\Trying something\Trying something\obj\Debug\Trying_something.Form4.resources
+C:\Users\eddie\Desktop\C#\Trying something\Trying something\obj\Debug\Trying_something.Properties.Resources.resources
+C:\Users\eddie\Desktop\C#\Trying something\Trying something\obj\Debug\Trying_something.UserControl1.resources
+C:\Users\eddie\Desktop\C#\Trying something\Trying something\obj\Debug\Trying_something.UserControl2.resources
+C:\Users\eddie\Desktop\C#\Trying something\Trying something\obj\Debug\Trying_something.UserControl3.resources
+C:\Users\eddie\Desktop\C#\Trying something\Trying something\obj\Debug\Trying something.csproj.GenerateResource.cache
+C:\Users\eddie\Desktop\C#\Trying something\Trying something\obj\Debug\Trying something.csproj.CoreCompileInputs.cache
+C:\Users\eddie\Desktop\C#\Trying something\Trying something\obj\Debug\Trying something.exe
+C:\Users\eddie\Desktop\C#\Trying something\Trying something\obj\Debug\Trying something.pdb
